@@ -1,0 +1,1 @@
+# Recognize-Japanese-Character
